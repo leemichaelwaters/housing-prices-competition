@@ -1,4 +1,4 @@
-# housing-prices-competition-for-kaggle-learn-users
+# housing-prices-competition
 
 Completed as part of Kaggle's Intro to Machine Learning course
 Predict home prices with Random Forest using Ames Housing Dataset
